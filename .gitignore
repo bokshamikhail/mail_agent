@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+*.log
+
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+models/

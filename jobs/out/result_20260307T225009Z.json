@@ -1,0 +1,55 @@
+{
+  "job_id": "20260307T225009Z",
+  "created_at": "2026-03-07T22:50:09.887029+00:00",
+  "processed_at": "2026-03-07T23:31:49.171395+00:00",
+  "window_minutes": 30,
+  "new_total": 4,
+  "important_count": 4,
+  "important_uids": [
+    "1964",
+    "1965",
+    "1966",
+    "1967"
+  ],
+  "emails": [
+    {
+      "uid": "1964",
+      "from": "Онлайн-магистратура «Искусственный интеллект» <online.cs@hse.ru>",
+      "subject": " Интенсив «Точка входа в AI»",
+      "date": "2026-03-07T12:05:57+00:00",
+      "body": "Как развивать карьеру в сфере ИИ? | Узнайте 11 и 14 марта!\n ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ \n\nДобрый день!\n\nОнлайн-магистратура «Искусственный интеллект» (https://www.hse.ru/ma/mlds/?utm_source=unisender&utm_medium=large&utm_campaign=aiprofession_iimarch) проводит двухдневный интенсив «Точка входа в AI» (https://www.hse.ru/ma/mlds/announcements/1129778306.html?utm_source=unisender&utm_medium=large&utm_campaign=aiprofession_iimarch), посвящённый развитию карьеры в сфере искусственного интеллекта.\n\nВ интенсиве два дня, за которые разберём\nЧто изучать в ИИ, чтобы быть на передовой технологий,\nа также решите квиз «Насколько современный ИИ вас удивит»\nКак строить карьеру в ИИ: от обучения к практике индустрии\nСпикеры: Елена Кантонистова, академический руководитель программы, и Садиех Сабрина, Explainable AI Researcher, R&D Lead в AI Security Lab, HiveTrace\nКогда: 11 и 14 марта, 19:00 (МСК)\n\nДля участия в интенсиве необходимо зарегистрироваться по ссылке ниже:\n\nЗарегистрироваться\n\n \n\nОнлайн-магистратура «Искусственный интеллект»\nВы освоите полный цикл внедрения ИИ в продукт: научитесь собирать и обрабатывать данные, строить модели глубинного машинного обучения и внедрять алгоритмы в промышленную эксплуатацию. А еще познакомитесь с популярными архитектурами: моделями для обработки текстов, изображений и видео.\n\nВы уже можете поступить на программу: подробнее по ссылке. (https://www.hse.ru/ma/mlds/tracks?utm_source=unisender&utm_medium=email_footer)\n\nС уважением,\n\nкоманда онлайн-магистратуры «Искусственный интеллект»\n\nВы можете отписаться (https://us21.besteml.com/ru/unsubscribe?hash=6xwxj4jnnw853bnkbmz1k166b4yzkpcugp1y34fs7adsfymp19mpjoqchzxehqazpyxguiqm95tkoh#no_tracking) от этой рассылки.",
+      "label": 1,
+      "proba": 0.0009548120944825357
+    },
+    {
+      "uid": "1965",
+      "from": "<hpc-info@hse.ru>",
+      "subject": "Job cHARISMa.3654190: Failed",
+      "date": "2026-03-07T15:06:02+00:00",
+      "body": "<html>\r\n<head>\r\n<style>\r\n\tbody {\r\n\tfont-size: 10pt;\r\n}\r\n\r\nth, td {\r\n\tpadding: 5px;\r\n\ttext-align: left;\r\n}\r\n\r\n</style>\r\n</head>\r\n<body>\r\n\r\n<p>Hello!\n\r\n\r\n<p>Your job 3654190 has failed on cHARISMa.\n\r\n\r\n<p>Details about the job can be found in the table below:\n\r\n\r\n<table>\r\n\t<tr>\r\n\t\t<td>ID:</td>\r\n\t\t<td>3654190</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Name:</td>\r\n\t\t<td>jupyterhub-notebook</td>\r\n\t</tr>\r\n\t<!-- <tr> -->\r\n\t\t<!-- <td>Partition:</td> -->\r\n\t\t<!-- <td>normal</td> -->\r\n\t<!-- </tr> -->\r\n\t<tr>\r\n\t\t<td>Nodes:</td>\r\n\t\t<td>1</td>\r\n\t</tr>\r\n\t<tr class=\"jobEnd\">\r\n\t\t<td>Node List:</td>\r\n\t\t<td>cn-012</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Wallclock:</td>\r\n\t\t<td>10 days, 0:30:00</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Std out:</td>\r\n\t\t<td>/home/miboksha/jupyter_3654190.log</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Std err:</td>\r\n\t\t<td>/home/miboksha/jupyter_3654190.log</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Work dir:</td>\r\n\t\t<td>/home/miboksha</td>\r\n\t</tr>\r\n\t<!-- <tr> -->\r\n\t\t<!-- <td>Comment:</td> -->\r\n\t\t<!-- <td></td> -->\r\n\t<!-- </tr> -->\r\n\t<tr>\r\n\t\t<td>Start:</td>\r\n\t\t<td>25/02/2026 17:35:20</td>\r\n\t</tr>\r\n\t<tr class=\"jobEnd\">\r\n\t\t<td>End:</td>\r\n\t\t<td>07/03/2026 18:05:49</td>\r\n\t</tr>\r\n\t<tr class=\"jobEnd\">\r\n\t\t<td>Elapsed:</td>\r\n\t\t<td>10 days, 0:30:29</td>\r\n\t</tr>\r\n\t<tr class=\"jobEnd\">\r\n\t\t<td>Wallclock Accuracy:</td>\r\n\t\t<td>100.00%</td>\r\n\t</tr>\r\n\t<tr class=\"jobEnd\">\r\n\t\t<td>Exit Code:</td>\r\n\t\t<td>0:0 (WALLCLOCK EXCEEDED)</td>\r\n\t</tr>\r\n\t<!-- <tr class=\"jobEnd\"> -->\r\n\t\t<!-- <td>Exit state:</td> -->\r\n\t\t<!-- <td>WALLCLOCK EXCEEDED</td> -->\r\n\t<!-- </tr> -->\r\n</table>\r\n\r\n\r\n\r\n\r\n<p>See the statistics on resource usage in the HPC TaskMaster: https://lk.hpc.hse.ru/job/3654190\n\r\n\r\n<p>Regards,\n\r\n\r\n<p><a href=\"https://hpc.hse.ru\">Supercomputer Modeling Unit HSE</a>\n\r\n\r\n<p><i>Note: This is an automated e-mail.</i>\n\r\n\r\n</body>\r\n</html>\r\n",
+      "label": 1,
+      "proba": 0.0022565466628707053
+    },
+    {
+      "uid": "1966",
+      "from": "<hpc-info@hse.ru>",
+      "subject": "Job cHARISMa.3683892: Began",
+      "date": "2026-03-07T18:57:02+00:00",
+      "body": "<html>\r\n<head>\r\n<style>\r\n\tbody {\r\n\tfont-size: 10pt;\r\n}\r\n\r\nth, td {\r\n\tpadding: 5px;\r\n\ttext-align: left;\r\n}\r\n\r\n\r\n\ttr.jobEnd {\r\n\t\tdisplay: none;\r\n\t}\r\n</style>\r\n</head>\r\n<body>\r\n\r\n<p>Hello!\n\r\n\r\n<p>Your job 3683892 has started on cHARISMa.\n\r\n\r\n<p>Details about the job can be found in the table below:\n\r\n\r\n<table>\r\n\t<tr>\r\n\t\t<td>ID:</td>\r\n\t\t<td>3683892</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Name:</td>\r\n\t\t<td>jupyterhub-notebook</td>\r\n\t</tr>\r\n\t<!-- <tr> -->\r\n\t\t<!-- <td>Partition:</td> -->\r\n\t\t<!-- <td>normal</td> -->\r\n\t<!-- </tr> -->\r\n\t<tr>\r\n\t\t<td>Nodes:</td>\r\n\t\t<td>1</td>\r\n\t</tr>\r\n\t<tr class=\"jobEnd\">\r\n\t\t<td>Node List:</td>\r\n\t\t<td>cn-009</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Wallclock:</td>\r\n\t\t<td>5 days, 0:30:00</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Std out:</td>\r\n\t\t<td>/home/miboksha/jupyter_3683892.log</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Std err:</td>\r\n\t\t<td>/home/miboksha/jupyter_3683892.log</td>\r\n\t</tr>\r\n\t<tr>\r\n\t\t<td>Work dir:</td>\r\n\t\t<td>/home/miboksha</td>\r\n\t</tr>\r\n\t<!-- <tr> -->\r\n\t\t<!-- <td>Comment:</td> -->\r\n\t\t<!-- <td></td> -->\r\n\t<!-- </tr> -->\r\n\t<tr>\r\n\t\t<td>Start:</td>\r\n\t\t<td>07/03/2026 21:56:40</td>\r\n\t</tr>\r\n\t<tr class=\"jobEnd\">\r\n\t\t<td>End:</td>\r\n\t\t<td>N/A</td>\r\n\t</tr>\r\n\t<tr class=\"jobEnd\">\r\n\t\t<td>Elapsed:</td>\r\n\t\t<td>0:00:00</td>\r\n\t</tr>\r\n\t<tr class=\"jobEnd\">\r\n\t\t<td>Wallclock Accuracy:</td>\r\n\t\t<td>N/A</td>\r\n\t</tr>\r\n\t<tr class=\"jobEnd\">\r\n\t\t<td>Exit Code:</td>\r\n\t\t<td>None (None)</td>\r\n\t</tr>\r\n\t<!-- <tr class=\"jobEnd\"> -->\r\n\t\t<!-- <td>Exit state:</td> -->\r\n\t\t<!-- <td>None</td> -->\r\n\t<!-- </tr> -->\r\n</table>\r\n\r\n\r\n<p>See the statistics on resource usage in the HPC TaskMaster: https://lk.hpc.hse.ru/job/3683892\n\r\n\r\n<p>Regards,\n\r\n\r\n<p><a href=\"https://hpc.hse.ru\">Supercomputer Modeling Unit HSE</a>\n\r\n\r\n<p><i>Note: This is an automated e-mail.</i>\n\r\n\r\n</body>\r\n</html>\r\n",
+      "label": 1,
+      "proba": 0.008905588387546941
+    },
+    {
+      "uid": "1967",
+      "from": "Не нужно отвечать на это сообщение (отправлено через edu.hse.ru) <smartlms@hse.ru>",
+      "subject": "Срок сдачи Задание 3 (JS Client-side): понедельник, 9 марта 2026, 23:59",
+      "date": "2026-03-07T21:26:42+00:00",
+      "body": "Здравствуйте Михаил Ильич.\r\n\r\nСкоро наступит срок сдачи задания\r\nЗАДАНИЕ 3 (JS CLIENT-SIDE) по курсу\r\nВеб-программирование (2025/2026 модули: 2,3).\r\n\r\nСРОК СДАЧИ: ПОНЕДЕЛЬНИК, 9 МАРТА 2026, 23:59\r\n\r\nПерейти к заданию [1]\r\n\r\nLinks:\r\n------\r\n[1] https://edu.hse.ru/mod/assign/view.php?id=1951731&action=view",
+      "label": 1,
+      "proba": 0.27226467129955195
+    }
+  ],
+  "summary": "[1] Интенсив «Точка входа в AI» — 0.0010  \n[2] Задача cHARISMa.3654190 завершена с ошибкой — 0.0023  \n[3] Задача cHARISMa.3683892 запущена — 0.0089  \n[4] Срок сдачи задания 3 (JS Client-side) — 9 марта 2026, 23:59 — 0.2723",
+  "tg_text": "⚠️ Важные письма за 30 мин: 4\n\n[1] Интенсив «Точка входа в AI» — 0.0010  \n[2] Задача cHARISMa.3654190 завершена с ошибкой — 0.0023  \n[3] Задача cHARISMa.3683892 запущена — 0.0089  \n[4] Срок сдачи задания 3 (JS Client-side) — 9 марта 2026, 23:59 — 0.2723",
+  "llm_error": ""
+}

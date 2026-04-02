@@ -1,0 +1,8 @@
+python-dotenv
+requests
+catboost
+fasttext-wheel
+spacy
+transformers
+accelerate
+torch
